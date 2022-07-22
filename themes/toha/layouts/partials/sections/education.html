@@ -70,7 +70,7 @@
                                 <table>
                                     <thead>
                                         <th class="course-name-header">{{ i18n "course_name"}}</th>
-                                        {{ end }}
+                                        {{ if not $hideScale  }}</th>{{ end }}
                                     </thead>
                                     <tbody>
                                         {{ range $index,$course := .takenCourses.courses }}
