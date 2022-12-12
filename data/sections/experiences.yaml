@@ -35,7 +35,7 @@ experiences:
     - Creating automation reports using BigQuery SQL and Python for new user configuration to expedite access set up for users by 60%. 
     - Constructing invoice upload file automation leveraging VBA to mitigate error risk and expedite root cause discovery by 1.5 minutes per row line.
     - Establishing data modeling databases for CIM one-way, summary, delivery, and dedicated invoicing modules.
-    Tech Stack - CIM (Carrier Invoice Management), TMS (Transportation Management System), EDI (Electronic Data Interchange), MS Access, SQL Server, BigQuery SQL, Python, Tableau, VBA, SAP, Jira, Miro, Confluence, Microsoft Office, Zendesk, Postman
+    - Tech Stack - CIM (Carrier Invoice Management), TMS (Transportation Management System), EDI (Electronic Data Interchange), MS Access, SQL Server, BigQuery SQL, Python, Tableau, VBA, SAP, Jira, Miro, Confluence, Microsoft Office, Zendesk, Postman
 
 - company:
     name: Boehringer Ingelheim
