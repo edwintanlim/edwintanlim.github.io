@@ -29,12 +29,13 @@ experiences:
     - Reviewing user acceptance testing (UAT) prior to story deployment to ensure all requirements are met and enhance user experience.
     - Constructing 4 SOPs for CIM one-way, summary, dedicated, and delivery end-to-end/regression testing for engineering teams.
     - Establishing strong relationship with carriers by handling Zendesk technical inquiries in a timely manner with 100% satisfaction rate.  
-    - Analyzing financial invoice trends utilizing Access, BigQuery SQL, and visualizing data in Tableau for supply chain transformation.
+    - Analyzing financial invoice trends utilizing Access, BigQuery SQL, and visualizing SAP data in Tableau for supply chain transformation.
     - Reengineering current invoicing processes to reduce 50% of manual tasks by creating data simulation in Python and BigQuery SQL.
     - Designing visualization dashboards metrics in Tableau to identify technical errors carriers received to reduce 25% of Zendesk Electronic Data Interchange (EDI) tickets and promote positive business relationship. 
     - Creating automation reports using BigQuery SQL and Python for new user configuration to expedite access set up for users by 60%. 
     - Constructing invoice upload file automation leveraging VBA to mitigate error risk and expedite root cause discovery by 1.5 minutes per row line.
     - Establishing data modeling databases for CIM one-way, summary, delivery, and dedicated invoicing modules.
+    Tech Stack - CIM (Carrier Invoice Management), TMS (Transportation Management System), EDI (Electronic Data Interchange), MS Access, SQL Server, BigQuery SQL, Python, Tableau, VBA, SAP, Jira, Miro, Confluence, Microsoft Office, Zendesk, Postman
 
 - company:
     name: Boehringer Ingelheim
