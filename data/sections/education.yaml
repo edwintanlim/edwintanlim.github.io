@@ -11,13 +11,13 @@ section:
 
 degrees:
 
-- name: Master of Science in Analytics
+#- name: Master of Science in Analytics
   #designation: Honors College (University Honors Scholar)
   #certification: Certifications - Lean Six Sigma Green Belt and Google Data Analytics
-  icon: fa-school
-  timeframe: 2023-Present
-  institution:
-    name: Georgia Institute of Technology
+ # icon: fa-school
+  #timeframe: 2023-Present
+  #institution:
+   # name: Georgia Institute of Technology
     #url: "#"
 
 - name: Bachelor of Science in Industrial & Systems Engineering
