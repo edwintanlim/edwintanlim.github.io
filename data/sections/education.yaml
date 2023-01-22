@@ -61,7 +61,13 @@ degrees:
     - name: Six Sigma & Lean Manufacturing
       #achieved: 3.5
       #outOf: 4
-    - name: Quality Control
+    - name: Statistical Quality Control
+      #achieved: 3.75
+      #outOf: 4
+    - name: Design & Improvement of Quality Processes
+      #achieved: 3.75
+      #outOf: 4 
+    - name: Human Machine Systems
       #achieved: 3.75
       #outOf: 4
 
