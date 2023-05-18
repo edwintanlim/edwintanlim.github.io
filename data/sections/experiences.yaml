@@ -23,10 +23,14 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Leading the development of Carrier Invoice Management to eliminate 35% of existing errors by collaborating with engineers.
-    - Facilitating daily stand up with 5 engineers to discuss ongoing project status, roadblocks, and other optimization discussions.
-    - Managing sprints, roadmaps, and story dependency using Jira and constructing business cases and requirements to enhance overall systems.
+    - Leading the development of Carrier Invoice Management to eliminate 35% of existing errors by collaborating with 8 engineers.
+    - Facilitating daily stand up with 8 engineers to discuss ongoing project status, roadblocks, and other optimization discussions.
+    - Managing sprints, roadmaps, and story dependency in Jira and Miro and constructing business cases and requirements to optimize systems.
+    - Overseeing usability testing and implementing changes for the TMS Facility Translation in React to enhance user experience by 65%.
+    - Directing comprehensive testing to capture missing retail cost over $150M+ from Order Up via Rest API Postman & Swagger.
+    - Spearheading A/B testing to reduce 50% manual task of existing system process by creating simulation in Python and BigQuery SQL.
     - Reviewing user acceptance testing (UAT) prior to story deployment to ensure all requirements are met and enhance user experience.
+    - Serving as a liaison between finance, accounts receivable, and supply chain operation in matters relating to EDI, CIM, TMS, and SAP.
     - Constructing 4 SOPs for CIM one-way, summary, dedicated, and delivery end-to-end/regression testing for engineering teams.
     - Establishing strong relationship with carriers by handling Zendesk technical inquiries in a timely manner with 100% satisfaction rate.  
     - Analyzing financial invoice trends utilizing Access, BigQuery SQL, and visualizing SAP data in Tableau for supply chain transformation.
@@ -35,7 +39,7 @@ experiences:
     - Creating automation reports using BigQuery SQL and Python for new user configuration to expedite access set up for users by 60%. 
     - Constructing invoice upload file automation leveraging VBA to mitigate error risk and expedite root cause discovery by 1.5 minutes per row line.
     - Establishing data modeling databases for CIM one-way, summary, delivery, and dedicated invoicing modules.
-    - Tech Stack - CIM (Carrier Invoice Management), TMS (Transportation Management System), EDI (Electronic Data Interchange), MS Access, SQL Server, BigQuery SQL, Python, Tableau, VBA, SAP, Jira, Miro, Confluence, Microsoft Office, Zendesk, Postman
+    - Tech Stack - CIM (Carrier Invoice Management), TMS (Transportation Management System), EDI (Electronic Data Interchange), MS Access, SQL Server, BigQuery SQL, Python, Tableau, VBA, SAP, Jira, Miro, Confluence, Microsoft Office, Zendesk, Postman, React
 
 - company:
     name: Boehringer Ingelheim
