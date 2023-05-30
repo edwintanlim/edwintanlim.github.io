@@ -23,10 +23,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Leading the development of Carrier Invoice Management to eliminate 35% of existing errors by collaborating with 8 engineers.
+    - Leading the strategic development of Carrier Invoice Management using Agile/Scrum methodology in collaboration with 8 engineers.
     - Facilitating daily stand up with 8 engineers to discuss ongoing project status, roadblocks, and other optimization discussions.
     - Managing sprints, roadmaps, and story dependency in Jira and Miro and constructing business cases and requirements to optimize systems.
-    - Overseeing usability testing and implementing changes for the TMS Facility Translation in React to enhance user experience by 65%.
+    - Overseeing usability testing and coordinating changes for the TMS Facility Translation in React to enhance user experience by 65%.
     - Directing comprehensive testing to capture missing retail cost over $150M+ from Order Up via Rest API Postman & Swagger.
     - Spearheading A/B testing to reduce 50% manual task of existing system process by creating simulation in Python and BigQuery SQL.
     - Reviewing user acceptance testing (UAT) prior to story deployment to ensure all requirements are met and enhance user experience.
