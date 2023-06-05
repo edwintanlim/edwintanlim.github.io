@@ -53,10 +53,10 @@ socialLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Google Data Analytics
-  url: "https://www.credly.com/badges/f9021896-97bf-4e9b-bb86-06914fab26ee/public_url"
-  badge: "https://www.credly.com/badges/f9021896-97bf-4e9b-bb86-06914fab26ee/public_url"
+#- type: certification
+  #name: Google Data Analytics
+  #url: "https://www.credly.com/badges/f9021896-97bf-4e9b-bb86-06914fab26ee/public_url"
+  #badge: "https://www.credly.com/badges/f9021896-97bf-4e9b-bb86-06914fab26ee/public_url"
 
 
 # "https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png"
@@ -77,31 +77,44 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Teamwork
+  name: Effective Stakeholder & Time Management
   percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
-  name: Communication 
+  name: Teamwork
   percentage: 95
   color: orange
 
 - type: soft-skill-indicator
-  name: Problem Solving
+  name: Complex Problem Solving
   percentage: 95
   color: gray
 
 - type: soft-skill-indicator
-  name: Effective Time Management
+  name: Business Strategy
   percentage: 95
   color: green
 
 - type: soft-skill-indicator
-  name: Detail-Oriented
+  name: Conflict Management
   percentage: 95
   color: sky
 
+- type: soft-skill-indicator
+  name: Agile/Scrum
+  percentage: 95
+  color: orange
+ 
+- type: soft-skill-indicator
+  name: Detail-Oriented
+  percentage: 95
+  color: lavender
 
+- type: soft-skill-indicator
+  name: Statistical Analysis
+  percentage: 95
+  color: red
 
 
 # you can also provide color code instead of the color name
