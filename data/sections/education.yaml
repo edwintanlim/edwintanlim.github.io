@@ -20,6 +20,15 @@ degrees:
    # name: Georgia Institute of Technology
     #url: "#"
 
+- name: Professional Scrum Product Owner (PSPO) & Professional Scrum Master (PSM)
+  #designation: Honors College (University Honors Scholar)
+  #certification: Certifications - Lean Six Sigma Green Belt and Google Data Analytics
+  icon: fa-certificate
+  timeframe: 2023-Present
+  institution:
+    name: Scrum.org
+    url: https://www.credly.com/badges/e51f25a4-b518-40a1-8166-af0ca3d290ad/public_url
+
 - name: Bachelor of Science in Industrial & Systems Engineering
   designation: Honors College (University Honors Scholar)
   certification: Certifications - Lean Six Sigma Green Belt and Google Data Analytics
