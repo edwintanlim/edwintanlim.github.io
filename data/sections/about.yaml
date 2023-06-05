@@ -73,48 +73,48 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 95
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
   name: Effective Stakeholder & Time Management
-  percentage: 95
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Teamwork
-  percentage: 95
+  percentage: 100
   color: orange
 
 - type: soft-skill-indicator
   name: Complex Problem Solving
-  percentage: 95
-  color: gray
+  percentage: 100
+  color: grey
 
 - type: soft-skill-indicator
   name: Business Strategy
-  percentage: 95
+  percentage: 100
   color: green
 
 - type: soft-skill-indicator
   name: Conflict Management
-  percentage: 95
+  percentage: 100
   color: sky
 
 - type: soft-skill-indicator
   name: Agile/Scrum
-  percentage: 95
-  color: orange
+  percentage: 100
+  color: lime
  
 - type: soft-skill-indicator
   name: Detail-Oriented
-  percentage: 95
-  color: lavender
+  percentage: 100
+  color: brown
 
 - type: soft-skill-indicator
   name: Statistical Analysis
-  percentage: 95
-  color: red
+  percentage: 100
+  color: gold
 
 
 # you can also provide color code instead of the color name
