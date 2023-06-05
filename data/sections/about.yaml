@@ -89,7 +89,7 @@ badges:
 - type: soft-skill-indicator
   name: Complex Problem Solving
   percentage: 100
-  color: grey
+  color: water
 
 - type: soft-skill-indicator
   name: Business Strategy
@@ -104,17 +104,17 @@ badges:
 - type: soft-skill-indicator
   name: Agile/Scrum
   percentage: 100
-  color: lime
+  color: forest
  
 - type: soft-skill-indicator
   name: Detail-Oriented
   percentage: 100
-  color: brown
+  color: violet
 
 - type: soft-skill-indicator
   name: Statistical Analysis
   percentage: 100
-  color: gold
+  color: peach
 
 
 # you can also provide color code instead of the color name
