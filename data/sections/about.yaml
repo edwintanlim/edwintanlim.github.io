@@ -30,9 +30,9 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "edwin.tan13@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/edwintanlim"
+#- name: Github
+#  icon: "fab fa-github"
+#  url: "https://github.com/edwintanlim"
 
 #- name: Stackoverflow
 #  icon: "fab fa-stack-overflow"
