@@ -23,9 +23,12 @@ experiences:
     # end: August 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Directed projects related to contracting, data collection, analysis, and price negotiation resulting in a 22% increase in savings. 
-    - Revamped audit process yields in 43% communication improvement and sustained business relationships with 396 vendors. 
-    - Optimized quality data trends with VBA Excel Macros, retrieved data with MS SQL, and visualized big data with Power BI.
+    - Designing and revamping project trackers to meet target timeline yielding in 20% communication improvement with various stakeholders.  
+    - Conceptualizing and spearheading treasury balance data lake creation in GBQ using Reval API in Python to further improve data analysis by 35%.
+    - Initiating, scoping, and deploying date feature on Mark to Market (MTM) bank report in UI Path Bot to improve file navigation by 15%.  
+    - Providing consultation, delineate option plans, and building the cash balance currency report in Power BI for global treasury team.
+    - Organizing and conducting training across global treasury teams for Google Looker Studio and Google Cloud Platform (GCP) utilization. 
+    - Coordinating and collaborating with Ops, IT, & PM for UPS Bank identification Code (BIC) account payment and statement migration. 
     - Tech Stack - Google Cloud Platform (GCP), Python, Looker, Power BI, Planview, Reval Treasury, UI Path
     
 - company:
