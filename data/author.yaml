@@ -7,13 +7,13 @@ image: "images/author/Edwin.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "edwin.tan13@gmail.com"
-  #phone: "+14046620799"
+  #phone: "+1404"
 
 # some summary about what you do
 summary:
   - I am a Product Manager 
   - I am an Analytics/Business Intelligence Engineer
   #- I am an aspiring Data Scientist
-  - I have 3.5+ years of professional experience working in startup, medium, and large companies
+  - I have 4+ years of professional experience working in startup, medium, and large companies
   - I like to go hiking, play video games, rock climbing, and learn new skills during my free time
 
