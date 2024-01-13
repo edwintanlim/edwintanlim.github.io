@@ -35,7 +35,7 @@ experiences:
     # company overview
     overview: The Home Depot is the largest home improvement retailer in the United States.
   positions:
-  - designation: Financial Systems (Data) Analyst (Product Manager) - Supply Chain Analytics and Finance Systems
+  - designation: Financial Systems Analyst (Product Manager) - Supply Chain Analytics and Finance Systems
     start: October 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     end: October 2023
