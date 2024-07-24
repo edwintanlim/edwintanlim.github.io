@@ -24,6 +24,15 @@ degrees:
   #designation: Honors College (University Honors Scholar)
   #certification: Certifications - Lean Six Sigma Green Belt and Google Data Analytics
   icon: fa-certificate
+  timeframe: 2024
+  institution:
+    name: Google
+    url: https://www.credly.com/badges/04f357e1-02b4-4c36-bbde-63933e116ee4/public_url
+    
+- name: Professional Scrum Product Owner (PSPO/CSPO)
+  #designation: Honors College (University Honors Scholar)
+  #certification: Certifications - Lean Six Sigma Green Belt and Google Data Analytics
+  icon: fa-certificate
   timeframe: 2023
   institution:
     name: Scrum.org
