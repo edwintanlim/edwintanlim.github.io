@@ -1,36 +1,36 @@
 name: Deploy to Github Pages
 
-# run when a commit is pushed to "source" branch
+# Trigger the workflow when a commit is pushed to "source" branch
 on:
   push:
     branches:
-    - source
+      - source
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    # checkout to the commit that has been pushed
-    - uses: actions/checkout@v3
-      with:
-        submodules: true  # Fetch Hugo themes (true OR recursive)
-        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-    
-    # install Hugo
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2  # Update to the latest stable version
-      with:
-        hugo-version: 'latest'
-        extended: true
+      # Checkout the repository with submodules and full history
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true or recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-    # build website
-    - name: Build
-      run: hugo --minify
+      # Install the latest version of Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2  # Keep the latest version compatible with Node 20
+        with:
+          hugo-version: 'latest'
+          extended: true
 
-    # push the generated content into the `gh-pages` branch.
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3.9.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: main # if your main branch is `master` use that here.
-        publish_dir: ./public
+      # Build the Hugo site
+      - name: Build
+        run: hugo --minify
+
+      # Deploy the built content to GitHub Pages
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4  # Update to the latest version
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: main # Use 'main' or the branch you're deploying to
+          publish_dir: ./public
