@@ -17,10 +17,24 @@ experiences:
     # company overview
     overview: UPS is an American multinational shipping & receiving and supply chain management company, and one of the world's largest shipping couriers.      
   positions:
-  - designation: Treasury Technology Supervisor
-    start: October 2023
+  - designation: Senior Technology Supervisor - FP&A Decision Support
+    start: December 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: August 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Championing the Looker visualization initiative by integrating AI Gemini, improving insight efficiency and data accuracy by 93% for leadership teams. 
+    - Leading the design, development, and maintenance of scalable and efficient data models for Airfeed and Side Cost to support reporting and analytics.
+    - Revamping the Side Cost initiative by migrating from a third-party-owned internal tool to an in-house model on GCP, reducing overall costs by 55%. 
+    - Directing the data migration initiative from Oracle to GCP (Google Cloud Platform) to enhance analytics speed and improve results by 25%.
+    - Developing and optimizing ETL/ELT pipelines to transform and load data from various sources into data warehouses.
+    - Creating and maintaining reusable, well-documented data transformations, models, processes, and workflows while ensuring compliance with data governance and security standards.  
+    - Coordinating and collaborating with Production Engineers, Operations Managers, Reporting Managers, and Airfeed Managers to reimagine business logic effectively.
+
+  - designation: Technology Supervisor - Treasury & Risk Management
+    start: October 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: December 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Leading the creation of RFP, mock scripts, vendor demo scorecards, and evaluation summaries to assess the effectiveness of the Reval SAAS tool for renewal
