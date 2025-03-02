@@ -37,13 +37,14 @@ experiences:
     end: December 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Leading the creation of RFP, mock scripts, vendor demo scorecards, and evaluation summaries to assess the effectiveness of the Reval SAAS tool for renewal
-    - Providing consultation and conducting market research for AI tools implementation to extract various data contracts for the risk management team.   
-    - Designing and revamping project trackers to meet target timeline yielding in 20% communication improvement with various stakeholders. 
-    - Coordinating and collaborating with Ops, IT, & PM for UPS Bank identification Code (BIC) account payment and statement migration.
-    - Organizing and conducting training across global treasury teams for Google Looker Studio and Google Cloud Platform (GCP) utilization. 
-    - Conceptualizing and spearheading treasury balance data lake creation in GBQ using Reval API in Python to further improve data analysis by 35%.
-    - Initiating, scoping, and constructing GL breakdown bot leveraging UI Path to cut down manual processing time from 65 to 35 minutes daily.
+    - Pioneered the Day in the Life of (DILO) across cash management, trading room, middle office, and accounting to enhance control and automation processes by 60%.
+    - Led the creation of RFP, mock scripts, vendor demo scorecards, and evaluation summaries to assess the effectiveness of the Reval SAAS tool for renewal
+    - Provided consultation and conducted market research for AI tools implementation to extract various data contracts for the risk management team.   
+    - Designed and revamped project trackers to meet target timeline yielding in 20% communication improvement with various stakeholders. 
+    - Coordinated and collaborated with Ops, IT, & PM for UPS Bank identification Code (BIC) account payment and statement migration.
+    - Organized and conducted training across global treasury teams for Google Looker Studio and Google Cloud Platform (GCP) utilization. 
+    - Conceptualized and spearheaded treasury balance data lake creation in GBQ using Reval API in Python to further improve data analysis by 35%.
+    - Initiated, scoped, and constructed GL breakdown bot leveraging UI Path to cut down manual processing time from 65 to 35 minutes daily.
     - Tech Stack - Google Cloud Platform (GCP), Python, Looker, Power BI, Planview, Reval Treasury, UI Path
     
 - company:
