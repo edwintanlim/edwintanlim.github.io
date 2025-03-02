@@ -18,7 +18,7 @@ experiences:
     overview: UPS is an American multinational shipping & receiving and supply chain management company, and one of the world's largest shipping couriers.      
   positions:
   - designation: Senior Technology Supervisor - FP&A Decision Support
-    start: December 2023
+    start: December 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: August 2021
     # give some points about what was your responsibilities at the company.
@@ -34,7 +34,7 @@ experiences:
   - designation: Technology Supervisor - Treasury & Risk Management
     start: October 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: December 2023
+    end: December 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Leading the creation of RFP, mock scripts, vendor demo scorecards, and evaluation summaries to assess the effectiveness of the Reval SAAS tool for renewal
