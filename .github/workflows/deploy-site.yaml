@@ -25,6 +25,7 @@ jobs:
 
       # Build the Hugo site
       - name: Build
+        run: hugo mod clean
         run: hugo --minify
 
       # Deploy the built content to GitHub Pages
