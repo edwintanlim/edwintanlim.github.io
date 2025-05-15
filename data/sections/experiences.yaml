@@ -23,14 +23,12 @@ experiences:
     # end: August 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Championing the Looker visualization initiative by integrating AI Gemini, improving insight efficiency and data accuracy by 93% for leadership teams. 
-    - Leading the design, development, and maintenance of scalable and efficient data models for Airfeed and Seg Cost to support reporting and analytics.
-    - Revamping the Seg Cost initiative by migrating from a third-party-owned internal tool to an in-house model on GCP, reducing overall costs by 55%. 
-    - Directing the data migration initiative from Oracle to GCP (Google Cloud Platform) to enhance analytics speed and improve results by 25%.
-    - Developing and optimizing ETL/ELT pipelines to transform and load data from various sources into data warehouses.
-    - Creating and maintaining reusable, well-documented data transformations, models, processes, and workflows while ensuring compliance with data governance and security standards.  
-    - Coordinating and collaborating with Production Engineers, Operations Managers, Reporting Managers, and Airfeed Managers to reimagine business logic effectively.
-
+    - Championing the integration of AI Gemini with Looker dashboards, enhancing data visualization, reporting accuracy, and decision-making speed by 45%.
+    - Leading the design and development of a revamped airline segment cost model by migrating from a third-party-owned tool to an in-house solution on Google Cloud Platform (GCP), reducing costs by 55%.
+    - Collaborating cross-functionally with Production Engineers, Operations Managers, Reporting Managers, and Airfeed Managers to redesign airline cost business logic.
+    - Directing the data migration initiative from Oracle to GCP to improve analytics performance and accelerate insights by 25%.
+    - Designing and optimizing ETL/ELT pipelines to transform and integrate data from multiple sources into GCP-based data warehouses.
+    - Creating and maintaining reusable, well-documented data models, workflows, and processes, while ensuring adherence to data governance and security standards.
   - designation: Technology Supervisor - Treasury & Risk Management
     start: October 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
