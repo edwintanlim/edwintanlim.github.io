@@ -58,21 +58,19 @@ experiences:
     end: October 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Led the strategic development of Carrier Invoice Management using Agile/Scrum framework in collaboration with 8 engineers.
-    - Prioritized roadmaps, backlog, and story dependency in Jira and Miro and constructed business cases and requirements to optimize systems.
-    - Oversaw usability testing and coordinated changes for the TMS Facility Translation in React to enhance user experience by 65%.
-    - Directed comprehensive testing to capture missing retail cost over $150M+ from Order Up via Rest API Postman & Swagger.
+    - Owned the strategic development of the Carrier Invoice Management (CIM) platform using Agile/Scrum framework in close collaboration with 8 engineers.
+    - Applied continuous improvement and human-centered design to streamline PO allocation and UI/UX workflows, increasing system efficiency by 70% in a matrixed environment.
+    - Led product discovery and REST API testing (Postman, Swagger) for the OVQ Order Up initiative, aligning data across Order Up, CIM, and SAP to recover $150M+ in missed retail cost.
+    - Drove cross-functional collaboration with Engineering, Operations, Finance, Analytics, and Supply Chain teams to deliver scalable solutions across EDI, TMS, SAP, and CIM systems.
+    - Defined product vision, roadmap, MVP, and feature prioritization using Jira and Miro, aligning backlog with business goals and user needs.
+    - Spearheaded A/B testing simulations in BigQuery SQL, streamlining legacy processes and reducing manual workload by 45%.
+    - Advocated usability testing and improvements for TMS Facility Translation in React, improving performance and user satisfaction by 65%.
+    - Visualized CIM metrics in Tableau and presented insights to senior leadership, influencing product direction and operational decisions.
     - Reviewed user acceptance testing (UAT) prior to story deployment to ensure all requirements are met and enhance user experience (UI/UX).
-    - Spearheaded A/B testing to reduce 50% manual task of existing system process by creating simulation in Python and BigQuery SQL.
-    - Served as a liaison between finance, accounts receivable, and supply chain operation in matters relating to EDI, CIM, TMS, and SAP.
-    - Constructed SOPs for CIM one-way, summary, dedicated, and delivery end-to-end/regression testing for engineering teams.
-    - Established strong relationship with carriers by handling Zendesk technical inquiries in a timely manner with 100% satisfaction rate.  
-    - Analyzed financial invoice trends utilizing Access, BigQuery SQL, and visualized SAP data in Tableau for supply chain transformation.
-    - Reengineered current invoicing processes to reduce 50% of manual tasks by creating data simulation in Python and BigQuery SQL.
-    - Designed visualization dashboards metrics in Tableau to identify technical errors carriers received to reduce 25% of Zendesk Electronic Data Interchange (EDI) tickets and promote positive business relationship. 
+    - Developed SOPs and established data models for CIM one-way, summary, delivery, and dedicated invoicing modules to support end-to-end and regression testing for engineering teams.
     - Created automation reports using BigQuery SQL and Python for new user configuration to expedite access set up for users by 60%. 
     - Constructed invoice upload file automation leveraging VBA to mitigate error risk and expedite root cause discovery by 1.5 minutes per row line.
-    - Established data modeling databases for CIM one-way, summary, delivery, and dedicated invoicing modules.
+    - Maintained high-touch customer support via Zendesk, driving 100% satisfaction and building trust with logistics partners.
     - Tech Stack - CIM (Carrier Invoice Management), TMS (Transportation Management System), EDI (Electronic Data Interchange), MS Access, SQL Server, BigQuery SQL, Python, Tableau, VBA, SAP, Jira, Miro, Confluence, Microsoft Office, Zendesk, Postman, React
 
 - company:
@@ -88,9 +86,9 @@ experiences:
     end: October 2021
     # give some points about what was your responsibilities at the company.
     responsibilities:
+    - Ideated, scoped, and launched a proof of concept (POC) digital lab occupancy tool with IT Ops, achieving 55% real-time data accuracy.
     - Constructed an automated scan with VBA to reduce manual compilation by 60% and optimized load time by 3 seconds per file.
-    - Ideated, scoped, and launched a digital software with IT Operations team that detected lab occupancy with 55% real-time data.
-    - Executed a digital maturity assessment to define equipment list and scope to identify potential solutions to optimize OEE calculation.
+    - Executed a digital maturity assessment to define equipment list and scope to identify potential solutions to optimize Overall Equipment Effectiveness (OEE) calculation.
 
 - company:
     name: United Parcel Service (UPS)
