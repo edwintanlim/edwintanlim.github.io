@@ -35,14 +35,14 @@ experiences:
     end: December 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Pioneered the Day in the Life of (DILO) across cash management, trading room, middle office, and accounting to enhance control and automation processes by 60%.
-    - Led the creation of RFP, mock scripts, vendor demo scorecards, and evaluation summaries to assess the effectiveness of the Reval SAAS tool for renewal
-    - Provided consultation and conducted market research for AI tools implementation to extract various data contracts for the risk management team.   
-    - Designed and revamped project trackers to meet target timeline yielding in 20% communication improvement with various stakeholders. 
-    - Coordinated and collaborated with Ops, IT, & PM for UPS Bank identification Code (BIC) account payment and statement migration.
-    - Organized and conducted training across global treasury teams for Google Looker Studio and Google Cloud Platform (GCP) utilization. 
-    - Conceptualized and spearheaded treasury balance data lake creation in GBQ using Reval API in Python to further improve data analysis by 35%.
+    - Partnered with senior leadership on Operational Excellence (OE) strategy for treasury systems, aligning OKRs with digital transformation goals and executing high-impact initiatives across Reval Treasury, GCP, and UiPath.
+    - Evangelized end-to-end user journeys across cash management, trading room, middle office, and accounting workflows to identify automation opportunities, improving operational efficiency by 60%.
+    - Conceptualized and led the development of a treasury data lake on Google Cloud Platform (GCP) using BigQuery SQL, Reval API, and Python, enhancing analytics capabilities by 35%.
+    - Managed cross-functional UPS Bank Identification Code (BIC) migration program across Ops, IT, and PMO teams, aligning system delivery to global banking standards and organizational OKRs.
+    - Led Reval SaaS Treasury renewal RFP process and conducted AI product discovery for contract extraction automation, supporting leadership’s investment decisions and driving innovation for the risk management team.
     - Initiated, scoped, and constructed GL breakdown bot leveraging UI Path to cut down manual processing time from 65 to 35 minutes daily.
+    - Organized and conducted training across global treasury teams for Google Looker Studio and Google Cloud Platform (GCP) utilization. 
+    - Designed and revamped project trackers to meet target timeline yielding in 20% communication improvement with various stakeholders. 
     - Tech Stack - Google Cloud Platform (GCP), Python, Looker, Power BI, Planview, Reval Treasury, UI Path
     
 - company:
