@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checkout the repository with submodules and full history
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          submodules: true  # Fetch Hugo themes (true or recursive)
+          submodules: recursive  # Fetch Hugo themes (true or recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       # Install the latest version of Hugo
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2  # Keep the latest version compatible with Node 20
+        uses: peaceiris/actions-hugo@v3  # Keep the latest version compatible with Node 24
         with:
           hugo-version: 'latest'
           extended: true
