@@ -6,17 +6,17 @@ on: [pull_request]
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # <-- Fixed: Changed from deprecated 18.04 to latest
+    runs-on: ubuntu-18.04
     steps:
     # checkout to the commit that has been pushed
-    - uses: actions/checkout@v4  # <-- Updated from v2.4.0 to v4
+    - uses: actions/checkout@v2.4.0
       with:
         submodules: true  # Fetch Hugo themes (true OR recursive)
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
     # install Hugo
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v3 # <-- Updated from v2.5.0 to v3
+      uses: peaceiris/actions-hugo@v2.5.0
       with:
         hugo-version: 'latest'
         extended: true
