@@ -20,7 +20,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3  # Keep the latest version compatible with Node 24
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.123.8'  # <-- Changed from 'latest' to avoid the crash
           extended: true
 
       # Build the Hugo site
