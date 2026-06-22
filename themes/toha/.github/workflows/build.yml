@@ -6,7 +6,7 @@ on: [pull_request]
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest  # <-- Fixed: Changed from deprecated 18.04 to latest
     steps:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v4  # <-- Updated from v2.4.0 to v4
